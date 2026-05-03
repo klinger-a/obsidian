@@ -20,3 +20,7 @@
 [[Wiley]]
 [[Fachreferat]]
 [[Changemanagement]]
+[[Text und Data Mining]]
+[[Lizenzverträge]]
+[[Fachreferat]]
+[[Changemanagement]]
